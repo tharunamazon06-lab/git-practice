@@ -1,5 +1,4 @@
 # git-practice
-<<<<<<< Updated upstream
 Hello new
 Change added by another developer
 New Line
@@ -15,4 +14,3 @@ tet
 Hello
 Change added by another developer
 i am adding another line from main
->>>>>>> Stashed changes

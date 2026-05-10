@@ -10,7 +10,6 @@ asd
 tyk
 c35b9b4 (new line added)
 tet
-=======
-Hello
-Change added by another developer
+mnkl
 i am adding another line from main
+
